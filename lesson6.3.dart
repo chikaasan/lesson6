@@ -1,6 +1,6 @@
-main() {
+main() { //
 List l1 = [1, 2, 4];
-List l2 = [1, 3, 4];
+List l2 = [1, 3, 0];
 l1.addAll(l2);
 int x;
   for(int i = 0; i < l1.length; i++){  
